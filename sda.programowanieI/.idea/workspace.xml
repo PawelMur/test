@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4e03811-2151-446c-9dce-58e660e8a2df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sda.programowanieI/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sda.programowanieI/stuktury_danych/StosTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sda.programowanieI/stuktury_danych/Tablice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sda.programowanieI/stuktury_danych/algorytmy/ONP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sda.programowanieI/stuktury_danych/kolejka/KolejkaElem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sda.programowanieI/stuktury_danych/kolejka/KolejkaLista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sda.programowanieI/stuktury_danych/stos/StosElem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sda.programowanieI/stuktury_danych/stos/StosLista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sda.programowanieI/stuktury_danych/stos/StosListaOutOfIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sda.programowanieI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stuktury_danych/StosTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stuktury_danych/Tablice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stuktury_danych/algorytmy/ONP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stuktury_danych/kolejka/KolejkaElem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stuktury_danych/kolejka/KolejkaLista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stuktury_danych/stos/StosElem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stuktury_danych/stos/StosLista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stuktury_danych/stos/StosListaOutOfIndex.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,26 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="36" />
-    <option name="width" value="780" />
-    <option name="height" value="688" />
+    <leaf />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -41,21 +44,8 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="sda.programowanieI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sda.programowanieI" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548502583549" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -98,7 +88,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -113,7 +102,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -127,30 +116,5 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
